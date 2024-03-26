@@ -1,6 +1,6 @@
 # Hi👋 I am Kelechi
 
-### I am a Fullstack Web Developer from Nigeria. I have a passion for creating beautiful, efficient, accessible, responsive and user-centric web projects. My blend of front-end and back-end expertise makes me a valuable addition to any team.
+### I am a web developer from Nigeria. I have a passion for creating beautiful, efficient, accessible, responsive and user-centric web projects. My blend of front-end and back-end expertise makes me a valuable addition to any team.
 
 
 - 🔭 I’m currently expanding my tech stack
