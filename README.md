@@ -6,6 +6,6 @@
 - 🔭 I’m currently expanding my tech stack
 - 👯 I’m looking to collaborate on new and interesting projects
 - 📫 Contact me: awomskelechi@gmail.com
-- ⚡ Fun fact: I have an obsession with history 
+- ⚡ Fun fact: I love books. 
 
 ##### Technical skills: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, Redux, React Query, Tailwind CSS, MongoDB, PostgreSQL
