@@ -8,4 +8,4 @@
 - 📫 Contact me: awomskelechi@gmail.com
 - ⚡ Fun fact: I love books. 
 
-#### Technical skills: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, Redux, React Query, Tailwind CSS, MongoDB, PostgreSQL
+#### Technical skills: JavaScript, TypeScript, React.js, Next.js, Node.js, Redux, React Query, Tailwind CSS, MongoDB, PostgreSQL, Prisma
